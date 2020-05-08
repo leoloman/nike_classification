@@ -23,4 +23,5 @@ I found that the structure of the shoe image links are all number based and to g
 
 
 Link to the original unmodified image set, [here](https://drive.google.com/open?id=1TJoR2zJ3yjGUH0NYz671-QeGWbbF2YXo) 
+
 Link to the trained neural network h5 file, [here](https://drive.google.com/open?id=1-37qj9cSdAva4DqnErpNp1MeUJzurUqU)
