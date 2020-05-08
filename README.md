@@ -20,3 +20,7 @@ I iterate over each link pulling down information about the shoe:
 Category 1, Category 2, Colourway, Image of the shoe facing right, Retail Price, Release Date, Stock X Name, Style Code,
 
 I found that the structure of the shoe image links are all number based and to get the angles of the shoe that I wanted I could just later the first image's hyperlink.
+
+
+Link to the original unmodified image set, [here](https://drive.google.com/open?id=1TJoR2zJ3yjGUH0NYz671-QeGWbbF2YXo) 
+Link to the trained neural network h5 file, [here](https://drive.google.com/open?id=1-37qj9cSdAva4DqnErpNp1MeUJzurUqU)
